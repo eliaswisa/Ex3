@@ -31,7 +31,7 @@ connecting between them.
 
 ***third part:***
 
-In this part we were required to compare runtimes of 3 different algorithms -[shortest_path, connected_component, connected_components] that runs on owr DWGraph.
+In this part we were required to compare runtimes of 3 different algorithms -[shortest_path, connected_component, connected_components] that runs on owr DWGraph
 
 between 3 platforms:java implementation (Ex2 project), python implementation (this project) and networkX library. 
 
